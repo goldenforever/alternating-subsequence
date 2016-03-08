@@ -2,9 +2,7 @@
 
 Python 3 implementation of BSP maximum length of an alternating subsequence.
 
-i.e. this: 
-
-Q2 of potentially the most unreasonable assignment ever received by a set of humans.
+i.e. Q2 of potentially the most unreasonable assignment ever received by a set of humans :D.
 
 Works for ints/floats and even ridiculous cases where all the numbers sent to a
 processor are equal.
